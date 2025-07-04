@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ruchirnamjoshi
-- 👀 I’m interested in Data science and machine learning
-- 🌱 I’m currently learning Deep learning
 - 📫 How to reach me ruchir.namjoshi007@gmail.com
 
 <!---
